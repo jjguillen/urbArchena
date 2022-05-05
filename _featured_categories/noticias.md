@@ -10,8 +10,8 @@ slug: noticias
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Aquí aparecen las últimas noticias relativas a las urbanizaciones gestionadas
+  por el Ayuntamiento de Archena
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
