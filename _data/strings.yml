@@ -11,42 +11,42 @@
 # Free version
 # ---------------------------------------------------------------------------------------
 home:                  Home
-pages:                 Pages
+pages:                 Páginas
 posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
+about:                 Sobre
+related_posts:         Posts relacionados
+other_projects:        Otros proyectos
+comments:              Comentarios
+jump_to:               Ir a
+navigation:            Navegación
 social:                Social
-links:                 Links
+links:                 Enlaces
 links_icon:            'icon-link'
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-forward:               Forward
-back:                  Back
+pagination:            Paginación
+newer:                 Más reciente
+older:                 Más antiguo
+forward:               Adelante
+back:                  Atrás
 permalink:             Permalink
 permalink_icon:        'content-hash'
 templates:             Templates (for web app)
 present:               present
-toc:                   Table of Contents
-note:                  Note
-description:           Description
-search:                Search
-search_placeholder:    Type something…
+toc:                   Tabla de contenidos
+note:                  Nota
+description:           Descripción
+search:                Búsqueda
+search_placeholder:    Escribe algo…
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Cargando…
+redirecting:           Redirigiendo…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continuar leyendo <!--post_title-->
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/cookies-policy/).
-  okay:                Okay
+    Este sitio contiene cookies. [Cookies Policy](/cookies-policy/).
+  okay:                Ok
 
 not_found:
   title:               '404: Page Not Found'
@@ -69,8 +69,8 @@ error:
 
 # Separators
 # ---------------------------------------------------------------------------------------
-posted:                'Posted'
-last_modified_at:      'Last modified at'
+posted:                'Posteado'
+last_modified_at:      'Última modificación'
 last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
