@@ -6,12 +6,13 @@ description: >
   y aún no acabadas, y con sobrecostes por encima del 100%. No se puede gestionar el dinero de los vecinos de una 
   manera tan irresponsable. 
 last_modified_at: 2022-03-03
-featured_img: /assets/img/inicio.png
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
 cover: true
 ---
+
+[Inicio](/assets/img/image.jpg)
 
 ## GESTIÓN DESASTROSA
 - Hay cuatro urbanizaciones gestionadas por el Ayuntamiento de Archena. Los vecinos depositaron su confianza en el 
