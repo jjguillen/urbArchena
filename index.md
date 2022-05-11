@@ -12,8 +12,6 @@ hide_image: false
 cover: true
 ---
 
-[Inicio](/assets/img/image.jpg)
-
 ## GESTIÓN DESASTROSA
 - Hay cuatro urbanizaciones gestionadas por el Ayuntamiento de Archena. Los vecinos depositaron su confianza en el 
 Ayuntamiento pensando que actuaría de forma responsable. Ha sucedido todo lo contrario: retrasos contínuos (alguna
