@@ -8,7 +8,7 @@ image: /assets/img/noticias/instalacioneselectricas.jpg
 * toc
 {:toc .large-only}
 
-- 15 AÑOS SEGÚN CONTRATO Q DEBERÍA ESTAR TERMINADA.       
+- 15 AÑOS SEGÚN CONTRATO QUE DEBERÍA ESTAR TERMINADA.       
 - 15 AÑOS  CON NUESTRO DINERO EN SUS ARCAS.                                 
 - ES LA URB. LOS PANIZOS de la Algaida.  
 
