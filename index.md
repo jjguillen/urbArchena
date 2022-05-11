@@ -32,7 +32,7 @@ extrañas, partidas económicas no justificadas, falta de información reiterada
 
 ## IRREGULARIDADES ECONÓMICAS
 - Todos los problemas surgen en 2008 con la crisis económica. Ante la falta de fondos del Ayuntamiento (endeudado) se
-permite a los ayuntamientos utilizar una caja común. De modo que el dinero entregado para la urbanización acaba en
+permite a los ayuntamientos utilizar una caja común. De modo que el dinero entregado para las urbanizaciones acaba en
 la misma caja con la que se pagan las nóminas, por ejemplo. 
 - Hay muchos indicios que indican que el dinero destinado para las urbanizaciones se desvió para otros menesteres. Por
 ejemplo, en la urbanización Los Panizos, por estas fechas se había pagado un millón trescientos mil euros, sin embargo,
@@ -48,9 +48,10 @@ desperfectos que es necesario arreglar, si multiplicamos esto por 20 años, tene
 que en los terrenos del ayuntamiento sí se puede otorgar licencia de habitabilidad, pero en los de los vecinos no.
 - Contratos otorgados a las mismas empresas incluso sin cumplirse los compromisos. No se cumplió la normativa de 
 licitaciones públicas.
-- Todas las parcelas siguen pagando IBI normal, durante 20 años, sin tener servicios ni nada. Alguna de las Urbanizaciones
+- Todas las parcelas siguen pagando IBI normal, durante 20 años, sin tener servicios ni nada. Alguna de las urbanizaciones
 si han conseguido alguna exención parcial en el impuesto.
 - Recibos y embargos que han intentado cobrar por duplicado desde la tesorería del ayuntamiento. 
+- A día de hoy los gastos de urbanización de varias urbanizaciones superan el precio de venta que tendrían las parcelas. Esto equivale a una expropiación de terrenos para financiar al ayuntamiento.
 
 ## COMPORTAMIENTO ÉTICAMENTE REPROCHABLE
 - Ninguna voluntad por parte del ayuntamiento para terminar las urbanizaciones, parece una fuente de financiación infinita.
