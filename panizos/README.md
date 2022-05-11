@@ -45,7 +45,7 @@ No se sabe qué hizo el Ayuntamiento con el dinero de los propietarios. Se aband
 
 ## 2012 - 2013
 - La Junta de Gobierno aprueba nuevos proyectos, se justificaron 7 años después de la adjudicación de la obra por “razones de interés público debido a necesidades nuevas” y por “obras no incluidas en el proyecto de urbanización”.  
-La obra estaba abandonada desde 2008. El Ayuntamiento no adjudicó estos proyectos por subasta aunque estas modificaciones superaban el 10% del presupuesto original del contrato, no están publicados en el BORM y no informaron a los propietarios de estas contrataciones hasta enviar un nuevo reparto en 2017. 
+La obra estaba abandonada desde 2008. Estos proyectos no están publicados en el BORM y no informaron a los propietarios de estas contrataciones hasta enviar un nuevo reparto en 2017. 
 La obra se había contratado en 2005 sin derecho a revisión de precios y el plazo de ejecución era de 12 meses, no se sabe por qué esas “necesidades nuevas” y esas “obras no incluidas” no estaban contempladas en la adjudicación de la obra, 7 años atrás. 
 
 - Aprobación y adjudicación del “Modificado del proyecto de urbanización del Plan Parcial “Los Panizos”.
