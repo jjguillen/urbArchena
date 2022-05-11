@@ -6,6 +6,7 @@ description: >
   y aún no acabadas, y con sobrecostes por encima del 100%. No se puede gestionar el dinero de los vecinos de una 
   manera tan irresponsable. 
 last_modified_at: 2022-03-03
+image: /assets/img/inicio.png
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
@@ -58,7 +59,7 @@ si han conseguido alguna exención parcial en el impuesto.
 - Para acallar a los vecinos se ha politizado todo para colocar en un bando u otro a los vecinos que solo piden justicia.
 
 
-Si este es el ** modelo de gestión ** que la excelentísima alcaldesa de Archena, doña Patricia Fernández, quiere llevar a la 
+Si este es el **modelo de gestión** que la excelentísima alcaldesa de Archena, doña Patricia Fernández, quiere llevar a la 
 Communidad de Murcia, para cuya presidencia se está postulando ("La Ayuso murciana"), nos encontraremos con una Región de
 Murcia mal gestionada, con una deuda que se disparará, actuaciones opacas, con una filosofía caciquil, un coto para amiguetes
 y mangantes, en fin, una región que se parecerá más a la de principios del siglo XX, que a la Murcia que se necesita para 
