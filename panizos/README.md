@@ -90,4 +90,5 @@ Tras las primeras manifestaciones el concejal explicó que los retrasos se deben
 - Las obras de otras urbanizaciones también están abandonadas.
 - Ante los hechos expuestos parece necesaria una **auditoría** de la gestión urbanística del Ayuntamiento de Archena para determinar si se están produciendo irregularidades en las actuaciones de esta Administración pública como agente urbanizador.
 
+
 ![Situacion Los Panizos](/assets/img/panizos/panizos2.jpg)
