@@ -25,22 +25,22 @@ title:                 Caos urbanístico en Archena
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  La situación en varias urbanizaciones es insostenible. Existe un absoluto caos administrativo, 
+  La situación en varias urbanizaciones de Archena es insostenible. Existe un absoluto caos administrativo, 
   han abandonado las obras de urbanización, hay urbanizaciones no finalizadas en más de 20 años, 
   gestión económica opaca, elevados sobrecostes, falta de transpariencia,... 
   Los propietarios están soportando las consecuencias de este desastre. 
 
 # A shorter description for the sidebar.
-tagline:               
+tagline:         Un blog dedicado a mostrar las irregularidades y el caos en las urbanizaciones gestionadas por el Ayuntamiento de Archena      
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [urbanizaciones, Archena, caos, irregularidades, urbanístico, embargo, manifestación]
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                <Asociación> <Altos>
-  email:               <asociacoin@panizos.com>
+  email:               <losaltosasociacion@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -86,6 +86,8 @@ theme: jekyll-theme-hydejack
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/fondo.png
 accent_color:          rgb(79,177,186)
+
+favicon: /assets/icons/asociacion.ico
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
