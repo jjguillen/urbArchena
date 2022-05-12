@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Basics
+title: Denuncia
 description: >
-  This chapter covers the basics of content creation with Hydejack.
+  Denuncia por prescripción en la ejecución de las obras de la urbanización Los Panizos.
 hide_description: true
 sitemap: false
 ---
+
+BORRAR Y PONER DOCUMENTO 
 
 This chapter covers the basics of content creation with Hydejack.
 

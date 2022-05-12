@@ -13,13 +13,13 @@ Aquí aparece la documentación relativa a las urbanizaciones mal gestionadas po
   Documentación solicitada, denuncias, recursos, modelos, etc. 
 
 
-## Categoría 1
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+## Solicitud documentación al Ayuntamiento de Archena
+* [Solicitud]{:.heading.flip-title} --- Solicitud de documentación.
 {:.related-posts.faded}
 
-## Categoría 2
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
+## Denuncia por prescripción en la ejecución de las obras de los Panizos
+* [Denuncia]{:.heading.flip-title} --- Denuncia por prescripción.
 {:.related-posts.faded}
 
-[install]: install.md
-[basics]: basics.md
+[solicitud]: solicitud.md
+[denuncia]: denuncia.md

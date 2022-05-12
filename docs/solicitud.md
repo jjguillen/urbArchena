@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Install
+title: Solicitud documentación al Ayuntamiento de Archena
 description: >
-  How you install Hydejack depends on whether you start a new site,
-  or change the theme of an existing site.
+  Se solicita al Ayuntamiento de Archena la documentación relativa a la urbanización Los Panizos respecto
+  a lo que se lleva pagado, conceptos que quedan por pagar, indemnizaciones, monto total, etc.
 hide_description: true
 sitemap: false
 ---
+
+BORRAR Y METER DOCUMENTO
 
 How you install Hydejack depends on whether you [start a new site](#new-sites), 
 or change the theme of [an existing site](#existing-sites).
