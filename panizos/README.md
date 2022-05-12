@@ -43,6 +43,8 @@ Con este reparto se liquidó el 100% del coste total de urbanización, 1.283.058
 - Abandonan las obras de urbanización. 
 No se sabe qué hizo el Ayuntamiento con el dinero de los propietarios. Se abandonó con muy poca obra ejecutada. Antes habían enviado a los propietarios los 4 repartos correspondientes al 100% del coste total, 1.283.058,93€. 
 
+[estado2008](/assets/img/panizos/2008.jpg)
+
 ## 2012 - 2013
 - La Junta de Gobierno aprueba nuevos proyectos, se justificaron 7 años después de la adjudicación de la obra por “razones de interés público debido a necesidades nuevas” y por “obras no incluidas en el proyecto de urbanización”.  
 La obra estaba abandonada desde 2008. Estos proyectos no están publicados en el BORM y no informaron a los propietarios de estas contrataciones hasta enviar un nuevo reparto en 2017. 
@@ -56,6 +58,8 @@ Aprobado por importe de 235.079,32€, siendo el plazo de ejecución de estas ob
 - Modificación nº2 del Plan Parcial Los Panizos.
 Se presenta 10 de septiembre en el Registro el Modificado nº 2, que se refiere a “obras no incluidas en el proyecto de urbanización, ni en el modificado, siendo obras de electricidad, abastecimiento, saneamiento y urbanización”, según indica el ITI, en su informe de 10 de septiembre, indicando que puede aprobarse técnicamente. El coste del proyecto es de 333.486,34€, IVA incluido. 
 Se aprueba el Modificado nº 2 de las obras de urbanización del Plan Parcial “Los Panizos” por importe de 331.314,71€ y adjudicarlo, siendo el plazo de ejecución de 2 meses.
+
+[estado2012](/assets/img/panizos/2012.jpg)
 
 ## 2017
 - Nuevo reparto parcial de gastos de urbanización en el Plan Parcial “Los Panizos” 
