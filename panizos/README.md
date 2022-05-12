@@ -77,13 +77,13 @@ Se están haciendo manifestaciones para denunciar esta situación. No es normal 
 Tras las primeras manifestaciones el concejal explicó que los retrasos se deben a la pandemia (16 años después de la primera contratación) y que ahora ha surgido un nuevo problema en el cableado. Informó de que iban a hacer catas para ver el estado en que se encontraba y repararlo, por lo que era necesario hacer una nueva contratación para la finalización de las obras, contratación que tendrían que pagar los propietarios. No explicó a qué se debe esta avería. Es difícil de encontrar una explicación a que se haya estropeado un cableado que es nuevo, que está enterrado y que no se ha utilizado. 
 
 - En enero de 2022 los propietarios vuelven a presentar otra solicitud firmada dirigida a la alcadesa y a toda la Junta de Gobierno pidiendo explicaciones y toda la documentación del Plan Parcial. Nadie ha respondido a los propietarios.
-Patricia Fernández López y su Junta de Gobierno siguen sin aclarar lo que está pasando en esta urbanización. 
-No se han asumido responsabilidades por la desastrosa gestión de este Ayuntamiento como agente urbanizador. 
-Las obras de otras urbanizaciones también están abandonadas.
-Ante los hechos expuestos parece necesaria una auditoría de la gestión urbanística del Ayuntamiento de Archena para determinar si se están produciendo irregularidades en las actuaciones de esta Administración pública como agente urbanizador.
+
 
 ## CONCLUSIÓN
-- No sabemos hasta dónde pueden llegar las **irregularidades** porque no nos han facilitado la documentación y no disponemos de los medios necesarios para sacarlo todo a la luz. Es necesario auditar todo el proyecto, toda la contabilidad y hacer un rastreo de los movimientos de dinero. 
-- Es inadmisible que se siga vulnerando nuestro derecho a la información, que no asuman ninguna **responsabilidad** sobre sus actuaciones y que hagan soportar a los propietarios la falta de diligencia, los errores, las interminables imprevisiones y, en resumen, todos los daños y perjuicios que supone la gestión ruinosa e irresponsable de la Administración pública actuante como agente urbanizador. 
+- No sabemos hasta dónde pueden llegar las **irregularidades** porque no nos han facilitado la documentación y no disponemos de los medios necesarios para sacarlo todo a la luz. 
+- Patricia Fernández López y su Junta de Gobierno siguen sin aclarar lo que está pasando en esta urbanización.
+- No se han asumido responsabilidades por la desastrosa gestión de este Ayuntamiento como agente urbanizador.
+- Las obras de otras urbanizaciones también están abandonadas.
+- Ante los hechos expuestos parece necesaria una **auditoría** de la gestión urbanística del Ayuntamiento de Archena para determinar si se están produciendo irregularidades en las actuaciones de esta Administración pública como agente urbanizador.
 
-![Plano ordenación Los Panizos](/assets/img/panizos/panizos2.jpg)
+![Situacion Los Panizos](/assets/img/panizos/panizos2.jpg)
