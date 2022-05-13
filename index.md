@@ -42,7 +42,7 @@ urbanización, baja calidad de las obras, …
 - Falta de información y transparencia (obligados por ley).
 - Se usan los embargos como presión para que los propietarios paguen obligados repartos con los que no están de acuerdo por falta de transpariencia.
 - Para acallar a los vecinos que piden justicia se afirma que están engañados por los políticos y de esta forma siguen sin dar explicaciones por su gestión.
-
-
+   
+   
 Si este es el **modelo de gestión** que la excelentísima alcaldesa de Archena, doña Patricia Fernández, quiere llevar a la Comunidad de Murcia, para cuya presidencia se está postulando (“La Ayuso murciana”), nos encontraremos con una Región de Murcia mal gestionada, actuaciones opacas y una filosofía caciquil, una región que se parecerá más a la de principios del siglo XX, que a la Murcia que se necesita para el siglo XXI, moderna, transparente, bien gestionada, que escuche a los
 ciudadanos, que sea eficaz y honrada.
