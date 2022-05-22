@@ -17,9 +17,9 @@ Aquí aparece la documentación relativa a las urbanizaciones mal gestionadas po
 * [Solicitud]{:.heading.flip-title} --- Solicitud de documentación.
 {:.related-posts.faded}
 
-## Denuncia por prescripción en la ejecución de las obras de los Panizos
-* [Denuncia]{:.heading.flip-title} --- Denuncia por prescripción.
+## Demanda al Ayuntamiento de Archena en la ejecución de las obras de los Panizos
+* [Demanda]{:.heading.flip-title} --- Demanda al Ayuntamiento de Archena.
 {:.related-posts.faded}
 
 [solicitud]: solicitud.md
-[denuncia]: denuncia.md
+[demanda]: demanda.md
