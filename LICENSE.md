@@ -7,13 +7,16 @@ sitemap: false
 
 {:toc .large-only}
 
+Como esta web no tiene publicidad y no hay venta comercial, y es a modo particular de la Asociación Los Altos, no es
+necesario poner el aviso legal, con lo cual no aparecerán los datos personales de la persona titular de esta web.
+
 ## Identificación y Titularidad
 En cumplimiento del artículo 10 de la Ley 34 / 2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, el Titular expone sus datos identificativos.
 
-- Titular: J. Javier Guillén Benavente
-- NIF:  48416709F
-- Domicilio: Calle Zurbarán 1, Mojácar.
-- Correo electrónico: josejavierguillen@gmail.com
+- Titular: Vecino cabreado
+- NIF:  El mío
+- Domicilio: Urbanización Los Panizos
+- Correo electrónico: mascabreadocadadia@gmail.com
 
 ## Finalidad: 
 Poner de manifiesto las irregularidades y el caos en la gestión urbanística del Ayuntamiento de Archena.
@@ -54,7 +57,7 @@ El Titular se reserva el derecho a modificar, suspender, cancelar o restringir e
 El Titular no es responsable de los daños y perjuicios que pudieran derivarse de la utilización de la información del sitio Web o de la contenida en las redes sociales del Titular.
 
 ## Política de cookies
-Este sitio web no almacena cookies en
+Este sitio web no almacena ninguna cookie.
 
 
 ## Propiedad intelectual e industrial
