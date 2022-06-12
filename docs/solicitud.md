@@ -8,5 +8,5 @@ hide_description: true
 sitemap: false
 ---
 
-[Descarcar solicitud documentación 2017](/assets/docs/Solicitud2017.pdf)
+[Descargar solicitud documentación 2017](/assets/docs/Solicitud2017.pdf)
 

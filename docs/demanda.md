@@ -7,4 +7,4 @@ hide_description: true
 sitemap: false
 ---
 
-[Descarcar demanda por prescripción 2020](/assets/docs/DemandaPanizos.pdf)
+[Descargar demanda por prescripción 2020](/assets/docs/DemandaPanizos.pdf)
