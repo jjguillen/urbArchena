@@ -12,7 +12,7 @@ hide_description: true
 
 Los vecinos de La Algaida no podemos aguantar más, hemos creado esta web para informar de la gravísima
 situación que tiene la urbanización Los Panizos de Archena, 20 años, la urbanización a medio hacer y 
-un precio el metro cuadrado disparatado.
+un coste de urbanización el metro cuadrado disparatado.
 
 ## Asociación Los Altos
 
